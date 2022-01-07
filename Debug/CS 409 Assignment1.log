@@ -1,0 +1,15 @@
+﻿  main4.cpp
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(167,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(557,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(557,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(557,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(565,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(705,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(718,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(722,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(728,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(816,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(843,10): warning C4101: 'drone': unreferenced local variable
+C:\Users\Brandon\source\repos\CS 409 Assignment1\main4.cpp(842,10): warning C4101: 'crystal': unreferenced local variable
+  CS 409 Assignment1.vcxproj -> C:\Users\Brandon\source\repos\CS 409 Assignment1\Debug\CS 409 Assignment1.exe
