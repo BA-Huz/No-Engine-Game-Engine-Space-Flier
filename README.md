@@ -1,11 +1,9 @@
-# No-Engine-Game-Engine-Space-Flier
-This Is the culmination of the assignments in my CS 409 Interactive Entertainment Software class. It is a C++ game using OpenGL and no game engine
+# No-Engine-Space-Flier-Game
+This Is the culmination of the assignments in my CS 409 Interactive Entertainment Software class. It is a C++ game using OpenGL and no game engine. Special thanks to Dr Howard Hamilton for his help in the class and on these assignments.
 
-Controls, angle you ship with the arrow keys or roll with '<' and '>'. Hit the gas with the space bar or apply your space breaks with 'b'.
-You can also nudge your ship in different directions with wasd keys.
-Fly close to an asteroid and press 'k' to knock off crystals or press 't' to toggle debug mode.
+Controls, angle you ship with the arrow keys or roll with '<' and '>'. Hit the gas with the space bar or apply your space breaks with 'b'. You can also nudge your ship in different directions with wasd keys. Fly close to an asteroid and press 'k' to knock off crystals or press 't' to toggle debug mode.
 
-All the asteroids, drones, crystals, and your ship are effected by the gravity of the black hole and can all collide with eachother. See the expected path you and your drones will drift in with a predicted path.
+All the asteroids, drones, crystals, and your ship are effected by the gravity of the black hole and can all collide with eachother. See the expected path you and your drones will drift in with a predicted drift line.
 ![Predicted path](https://user-images.githubusercontent.com/56166683/148467930-1bd6c69f-300b-408c-ac56-502b6765932c.png)
 
 The asteroids are created using Perlin Noise. They collide with other objects based off of their specific generated shape.
@@ -19,3 +17,8 @@ In Debug mode you will see markers on the escort poitions around you ship with t
 
 Asteroids will also have lines coming out of their local axes with markers sitting on the asteroids surface along the worlds axes. These markers sit on the shape of the asteroid as it rotates like bouys bouncing on waves.
 ![Debug Mode 1](https://user-images.githubusercontent.com/56166683/148473585-b462f4c0-268e-418a-96d0-867789ef964a.png)
+
+Watch out though as both you and your drones die if they collide with an asteroid.
+
+Future Work
+It may be interesting to remake this project in Unity with C# and I have a few ideas for differences. Giving the black hole an actual collision and rather then the black hole being the only source of gravity having every object give off gravity, even if its only a miniscule fraction of the blackholes gravity. Giving the ship some proper weapon system to shoot at asteroids. Shot asteroids would be broken into chunks that are actual deconstructions of the initial asteroid such that they could be placed back together like a puzzle and have the same original shape. the drones wouldent collect crystals but small enough asteroid chunks.
