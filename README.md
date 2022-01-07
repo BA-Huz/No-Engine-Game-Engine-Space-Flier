@@ -1,7 +1,7 @@
 # No-Engine-Space-Flier-Game
 This Is the culmination of the assignments in my CS 409 Interactive Entertainment Software class. It is a C++ game using OpenGL and no game engine. Special thanks to Dr Howard Hamilton for his help in the class and on these assignments.
 
-All the code file not in the zip are copies of my code. To reun the program just unzip 409 Project.zip!
+All the code file not in the zip are copies of my code. To reun the program just unzip CS 409 Project.zip and double click the .exe file (the application)!
 
 Controls, angle you ship with the arrow keys or roll with '<' and '>'. Hit the gas with the space bar or apply your space breaks with 'b'. You can also nudge your ship in different directions with wasd keys. Fly close to an asteroid and press 'k' to knock off crystals or press 't' to toggle debug mode.
 
